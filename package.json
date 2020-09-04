@@ -63,7 +63,7 @@
     "js-yaml": "^3.8.4",
     "jsonwebtoken": "^8.1.0",
     "lodash": "^4.17.4",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "mf-obj": "^2.1.0",
     "microformat-node": "^2.0.1",
     "micropub-express": "^0.7.1",
